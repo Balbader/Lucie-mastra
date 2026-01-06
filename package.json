@@ -1,11 +1,12 @@
 {
-  "name": "template-slack-agent",
+  "name": "pioneers-slack-bot",
   "version": "1.0.0",
-  "description": "A Mastra template for building Slack bots with streaming responses, thread-based conversation memory, and support for multiple agents with their own Slack apps",
+  "description": "A Mastra bot for the Pioneers accelerator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "mastra dev",
+    "dev:cli": "tsx src/mastra/terminal/cli.ts",
     "build": "mastra build",
     "start": "mastra start"
   },
