@@ -1,0 +1,233 @@
+{
+  "program": "Pioneers Accelerator",
+  "location": "Station F",
+  "knowledge_base": {
+    "program_overview": [
+      {
+        "question": "Hey",
+        "answer": "Hey there :wave:\nI'm Lucie, Program Manager @Pioneers. I'm here to help you navigate the Pioneers program as you work on building the next billion-dollar tech giant!\nYou can ask me about:\nProgram logistics: sessions, milestones, key dates, and deadlines :spiral_calendar_pad:\nProgram requirements: submissions, expected formats, evaluation or selection criteria :page_facing_up:\nFounders profiles: experience, skills, background, and areas of expertise to find your perfect match :busts_in_silhouette:\nThe Pioneers accelerator: how it works, the team, and who to contact :handshake:\nWhat can I help you with today? :rocket:"
+      },
+      {
+        "question": "What is the Pioneers accelerator?",
+        "answer": "Pioneers is an early-stage startup accelerator hosted at Station F, designed to help founders validate, build, and scale their startups through structured support, mentorship, and access to a strong entrepreneurial ecosystem."
+      },
+      {
+        "question": "What problem does the Pioneers program aim to solve for founders?",
+        "answer": "The program aims to reduce early-stage execution risk by helping founders clarify their problem, validate their solution, and accelerate learning through structured guidance and peer support."
+      },
+      {
+        "question": "Who is the Pioneers accelerator designed for?",
+        "answer": "Pioneers is designed for ambitious early-stage founders who are building scalable startups and want hands-on support to reach product-market fit."
+      },
+      {
+        "question": "What stage startups does Pioneers target?",
+        "answer": "The program primarily targets pre-seed and seed-stage startups, including teams at idea, prototype, or early traction stages."
+      },
+      {
+        "question": "Is Pioneers focused on tech startups only?",
+        "answer": "While many startups are technology-driven, Pioneers is generally open to innovative startups across sectors, as long as they demonstrate strong growth potential."
+      },
+      {
+        "question": "What makes Pioneers different from other accelerators at Station F?",
+        "answer": "Pioneers emphasizes close founder support, early validation, and practical execution, often with smaller cohorts and high-touch mentorship."
+      },
+      {
+        "question": "What is the core philosophy behind the Pioneers program?",
+        "answer": "The core philosophy is learning by doing: helping founders move fast, test assumptions, and build sustainable companies through iteration."
+      },
+      {
+        "question": "How hands-on is the Pioneers accelerator?",
+        "answer": "The program is hands-on, with regular check-ins, workshops, and mentor interactions designed to actively support founder progress."
+      },
+      {
+        "question": "What outcomes should founders expect by the end of the program?",
+        "answer": "Founders typically aim to achieve clearer positioning, a stronger product, validated assumptions, and readiness for the next growth or fundraising step."
+      },
+      {
+        "question": "How does Pioneers define success for a startup?",
+        "answer": "Success is generally defined by measurable progress toward product-market fit, founder learning, and increased startup momentum."
+      }
+    ],
+    "eligibility_and_profile": [
+      {
+        "question": "Who is eligible to apply to the Pioneers accelerator?",
+        "answer": "Any startup team or solo founder building an early-stage company with growth potential may apply, subject to cohort-specific criteria."
+      },
+      {
+        "question": "Do solo founders qualify for the program?",
+        "answer": "Yes, solo founders are typically eligible, provided they demonstrate strong execution ability and commitment."
+      },
+      {
+        "question": "Are teams required to have a technical co-founder?",
+        "answer": "A technical co-founder is not always required, but teams must show the ability to build and iterate on their product."
+      },
+      {
+        "question": "Is there a minimum viable product required to apply?",
+        "answer": "An MVP is not always mandatory, but having a prototype or early validation is generally beneficial."
+      },
+      {
+        "question": "Can idea-stage startups apply?",
+        "answer": "Yes, idea-stage startups may apply if they demonstrate a strong problem understanding and execution plan."
+      },
+      {
+        "question": "Are non-European founders eligible?",
+        "answer": "Yes, international founders are typically eligible, subject to logistical and visa considerations."
+      },
+      {
+        "question": "Can students apply to the Pioneers accelerator?",
+        "answer": "Students may apply as long as they can commit sufficient time to the program."
+      },
+      {
+        "question": "Can startups incorporated outside France apply?",
+        "answer": "Yes, incorporation outside France is generally acceptable."
+      },
+      {
+        "question": "Is prior funding required to join Pioneers?",
+        "answer": "No prior funding is required."
+      },
+      {
+        "question": "Are first-time founders preferred?",
+        "answer": "First-time founders are welcome, and prior entrepreneurial experience is not a strict requirement."
+      }
+    ],
+    "team_formation": [
+      {
+        "question": "Does Pioneers help founders find co-founders?",
+        "answer": "The program may facilitate connections between founders, but specific co-founder matching services depend on cohort offerings and program structure."
+      },
+      {
+        "question": "What is the ideal team size for Pioneers?",
+        "answer": "Team size requirements vary, but most accepted teams range from solo founders to small teams of 2 or 3 people for a startup - founders should take into account that the more founders in a team the more risk of misalignment on vision, governance, and work ethic."
+      },
+      {
+        "question": "What skills should a founding team have?",
+        "answer": "Ideal founding teams typically combine technical, business, and domain expertise relevant to their startup, though specific requirements depend on the startup's focus."
+      },
+      {
+        "question": "Can I apply to Pioneers to find a co-founder?",
+        "answer": "While the program may provide networking opportunities, applicants are generally expected to have a clear startup idea and some team structure, even if incomplete."
+      },
+      {
+        "question": "Does Pioneers organize co-founder matching events?",
+        "answer": "The program may include networking events and community activities that facilitate founder connections, but specific co-founder matching events depend on cohort programming."
+      },
+      {
+        "question": "What roles are most important in a founding team?",
+        "answer": "Important roles typically include product development, business development, and domain expertise, though the specific mix depends on the startup's industry and stage."
+      },
+      {
+        "question": "Can I join Pioneers as a solo founder and build my team during the program?",
+        "answer": "Solo founders are typically welcome, and the program's community and networking opportunities may help with team building, though this varies by cohort."
+      },
+      {
+        "question": "How do I evaluate if someone would be a good co-founder?",
+        "answer": "Good co-founders typically share vision alignment, complementary skills, strong commitment, and compatible working styles, though evaluation criteria are personal to each founder."
+      },
+      {
+        "question": "Does Pioneers provide guidance on team structure and equity splits?",
+        "answer": "The program may offer workshops or mentorship on team dynamics and equity, but specific guidance depends on cohort programming and mentor availability."
+      },
+      {
+        "question": "Are there resources for finding technical or business co-founders?",
+        "answer": "The program and Station F ecosystem may provide access to networks and events where founders can connect, though specific matching resources vary by cohort."
+      }
+    ],
+    "application_process": [
+      {
+        "question": "How does the application process work?",
+        "answer": "Founders submit an online application, which is reviewed by the Pioneers team, often followed by interviews for shortlisted candidates."
+      },
+      {
+        "question": "When do applications open for Pioneers?",
+        "answer": "Application timelines vary by cohort and are announced by the Pioneers team."
+      },
+      {
+        "question": "When is the application deadline?",
+        "answer": "Deadlines depend on the specific cohort and are communicated during the application period."
+      },
+      {
+        "question": "How long does the application review process take?",
+        "answer": "The review process typically takes several weeks, depending on application volume."
+      },
+      {
+        "question": "What criteria are used to evaluate applications?",
+        "answer": "Evaluation usually considers team quality, problem clarity, solution potential, and founder motivation."
+      },
+      {
+        "question": "Is there an interview stage in the selection process?",
+        "answer": "Yes, shortlisted teams are usually invited to interviews."
+      },
+      {
+        "question": "Who reviews the applications?",
+        "answer": "Applications are reviewed by the Pioneers team and selected program partners."
+      },
+      {
+        "question": "How competitive is the Pioneers accelerator?",
+        "answer": "The program is selective, with limited spots per cohort."
+      },
+      {
+        "question": "Can rejected applicants reapply in the future?",
+        "answer": "Yes, applicants may reapply for future cohorts."
+      },
+      {
+        "question": "Is feedback provided to unsuccessful applicants?",
+        "answer": "Feedback availability depends on application volume and cohort policies."
+      }
+    ],
+    "funding_and_equity": [
+      {
+        "question": "Does Pioneers provide funding?",
+        "answer": "Funding terms vary by cohort; some programs may include investment opportunities, while others focus on support without direct funding."
+      },
+      {
+        "question": "Is there an equity requirement to join the program?",
+        "answer": "Equity requirements, if any, depend on the specific cohort and terms."
+      },
+      {
+        "question": "How much equity does Pioneers take?",
+        "answer": "Equity terms are cohort-specific and communicated during the selection process."
+      },
+      {
+        "question": "Is participation free for founders?",
+        "answer": "Participation terms vary; founders should refer to the cohort’s official terms."
+      },
+      {
+        "question": "Does Pioneers help startups raise funding?",
+        "answer": "Yes, the program typically provides fundraising guidance and investor exposure."
+      }
+    ],
+    "station_f_and_resources": [
+      {
+        "question": "What is Station F?",
+        "answer": "Station F is the world’s largest startup campus, based in Paris, hosting startups, accelerators, investors, and corporate partners."
+      },
+      {
+        "question": "Do Pioneers startups get access to Station F?",
+        "answer": "Yes, accepted startups typically receive access to Station F facilities during the program."
+      },
+      {
+        "question": "Are there perks or discounts for startups?",
+        "answer": "Startups often receive access to partner perks, tools, and service credits through Station F."
+      }
+    ],
+    "miscellaneous": [
+      {
+        "question": "What language is the program conducted in?",
+        "answer": "The program is primarily conducted in English."
+      },
+      {
+        "question": "How can founders contact the Pioneers team?",
+        "answer": "Founders can contact the team via the official Pioneers or Station F communication channels."
+      },
+      {
+        "question": "Where can I find official updates about the program?",
+        "answer": "Official updates are shared through Pioneers and Station F websites, newsletters, and social channels."
+      }
+    ]
+  },
+  "metadata": {
+    "intended_use": "Slack chatbot knowledge base",
+    "answer_style": "Neutral, informational, non-committal",
+    "last_updated": "2025-12-16"
+  }
+}
