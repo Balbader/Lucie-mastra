@@ -113,16 +113,10 @@ function createSlackEventsRoute(config: SlackAppConfig) {
 // Define your Slack apps - each with its own credentials and agent
 const slackApps: SlackAppConfig[] = [
   {
-    name: 'reverse',
-    botToken: process.env.SLACK_REVERSE_BOT_TOKEN!,
-    signingSecret: process.env.SLACK_REVERSE_SIGNING_SECRET!,
-    agentName: 'reverseAgent',
-  },
-  {
-    name: 'caps',
-    botToken: process.env.SLACK_CAPS_BOT_TOKEN!,
-    signingSecret: process.env.SLACK_CAPS_SIGNING_SECRET!,
-    agentName: 'capsAgent',
+    name: 'lucie',
+    botToken: process.env.SLACK_BOT_TOKEN!,
+    signingSecret: process.env.SLACK_SIGNING_SECRET!,
+    agentName: 'lucie',
   },
 ];
 

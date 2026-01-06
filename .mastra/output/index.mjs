@@ -397,16 +397,10 @@ function createSlackEventsRoute(config) {
 }
 const slackApps = [
   {
-    name: "reverse",
-    botToken: process.env.SLACK_REVERSE_BOT_TOKEN,
-    signingSecret: process.env.SLACK_REVERSE_SIGNING_SECRET,
-    agentName: "reverseAgent"
-  },
-  {
-    name: "caps",
-    botToken: process.env.SLACK_CAPS_BOT_TOKEN,
-    signingSecret: process.env.SLACK_CAPS_SIGNING_SECRET,
-    agentName: "capsAgent"
+    name: "lucie",
+    botToken: process.env.SLACK_BOT_TOKEN,
+    signingSecret: process.env.SLACK_SIGNING_SECRET,
+    agentName: "lucie"
   }
 ];
 const slackRoutes = slackApps.map(createSlackEventsRoute);
